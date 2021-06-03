@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A second proclamation for the apprehension of Richard Smith, a popish priest, stiled, and calling himselfe, the Bishop of Calcedon.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12998</idno><idno type="EEBO-CITATION">99892444</idno>
+  <idno type="VID">188180</idno>
+  <idno type="EEBO-PROQUEST">2240923164</idno>
+  
+            <idno type="STC">STC 8919</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[26]</idno>
+            <idno type="STC">ESTC S122754</idno>
+            <idno type="PROQUEST">ocm99892444</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892444e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188180)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A second proclamation for the apprehension of Richard Smith, a popish priest, stiled, and calling himselfe, the Bishop of Calcedon.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton and Iohn Bill, printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. DC. XXVIII. [1628, i.e. 1629]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: ... VVhitehall, the foure and twentieth day of March, in the fourth yeere of our reigne ... .</note>
+                  <note>The date is given according to Lady Day dating.</note>
+                  <note>Arms 13; Steele notation: the  where  2) assi-  appre-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Smith, Richard, 1566-1655 --  Early works to 1800.</term>
+               <term type="topical_term">Catholics --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188180:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>¶ A second Proclamation for the apprehension of Richard Smith, a Popish Priest, stiled, and calling him<g ref="char:EOLhyphen"/>selfe, The Bishop of <hi>Calcedon.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas by Our Proclamation, bearing date the</hi> eleuenth day of December last past, (for the reasons in that Our Proclamation expressed) Wee did straitly commaund, that none of Our Subiects should harbour or conceale the sayd <hi>Smith,</hi> but that foorthwith they should arrest and apprehend his bodie, and bring him before the next Iustice of Peace, to the place where hee should bee apprehended, whom Wee thereby comman<g ref="char:EOLhyphen"/>ded to commit him to prison without Bayle or Maineprise, and presently to enforme Vs, or Our Priuie Counsell, of his apprehension: And Wee did thereby declare, That if any person should then after, directly or indirectly, harbour or conceale the sayd <hi>Smith,</hi> or vse, or conniue at any meanes, whereby the sayd <hi>Smith</hi> might escape from beeing apprehended or ar<g ref="char:EOLhyphen"/>rested, that Wee should extend the vttermost seueritie of Our Lawes against euery such of<g ref="char:EOLhyphen"/>fender, as by Our Proclamation more at large appeareth; Which Our Proclamation hath not yet wrought that good effect which Wee expected, the sayd <hi>Smith</hi> beeing still hidden and harboured by those, who, beeing infected and blinded with Popish superstition, preferre their respects to him, before their duetie to Vs, and the feare of Our high displeasure, and the con<g ref="char:EOLhyphen"/>sequence thereof; Wee therefore, by the aduice of Our Priuie Counsell, haue thought fit by this Our second Proclamation to renew Our former command in that behalfe.</p>
+            <p>And to the end that none of Our Subiects may hereafter excuse themselues by a preten<g ref="char:EOLhyphen"/>ded ignorance of the danger they shall fall into, if they shall harbour or conceale him; Wee doe hereby publish and declare, That the sayd <hi>Smith</hi> is not onely a Popish Priest, and with a high presumption taketh vpon him to exercise Ecclesiasticall Iurisdiction, pretended to bee de<g ref="char:EOLhyphen"/>riued from the Sea of <hi>Rome,</hi> within this Our Realme, and endeauoureth to seduce Our Subiects from the true Religion established in the Church of <hi>England,</hi> (which, by Gods assi<g ref="char:EOLhyphen"/>stance Wee shall euer constantly maintaine) but doeth also seditiously and traiterously hold correspondence with Our enemies, tending to the destruction of Our State.</p>
+            <p>And therefore Wee doe now againe renew Our former command for his apprehension, and doe hereby further signifie, That whosoeuer shall Lodge, Harbour, or Relieue the sayd <hi>Smith,</hi> or any other Priest, Iesuite, or other, hauing taken Orders by authoritie pretended to bee deriued from the Sea of <hi>Rome,</hi> shall incurre the danger of Our Lawes made against the Harbourers, Lodgers, and Relieuers of Priests, to the full extent thereof, which by the Statutes of this Our Realme is Felonie.</p>
+            <p>And Wee doe further hereby declare, (which Wee shall really performe) That whosoeuer shall discouer the sayd <hi>Smith,</hi> and cause him to bee apprehended, as aforesayd, shall haue a re<g ref="char:EOLhyphen"/>ward of one hundred pounds in money, to bee presently payd vnto him by Vs, and shall also haue the benefit of all such Penalties and Forfeitures, which shall or may accrue vnto Vs, and bee forfeited by that person, in whose house the sayd <hi>Smith</hi> shall bee found to haue beene harboured or concealed.</p>
+            <p>And Wee further charge and command heereby, (as by Our former Proclamation Wee did) all and singuler Our Iudges, Iustices of Peace, Maiors, Shiriffes, Constables, and all other Our Officers, Ministers and louing Subiects, That if they shall finde any person of<g ref="char:EOLhyphen"/>fending herein, that then they, and euery of them, proceede with all diligence and readi<g ref="char:EOLhyphen"/>nesse, not onely against the sayd <hi>Smith,</hi> but also against all such as shall harbour, conceale, or conniue at his concealement, or shall not vse their best endeauours for his discouery and appre<g ref="char:EOLhyphen"/>hension, according to the vttermost extent of Our Lawes.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Whitehall, </hi>
+                  <date>
+                     <hi>the foure and twentieth day of March, in the fourth yeere of Our Reigne, of Great Britaine, France and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Prin<g ref="char:EOLhyphen"/>ters to the Kings most Excellent Maiestie. M.DC.XXVIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
